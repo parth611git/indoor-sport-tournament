@@ -1,0 +1,24 @@
+.para{
+    font-weight: bold;
+    color: red;
+}
+.sportCard
+{
+    background-color: #425563;
+    width: 500px;
+    min-width: 300px;
+    border: 3px solid #fdd683;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    text-align: center;
+    color: white;    
+}
+.sportCardContainer
+{
+    align-self: center;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
